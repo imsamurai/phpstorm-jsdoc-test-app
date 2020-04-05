@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "module-test": "git://github.com/imsamurai/phpstorm-jsdoc-test-module.git"
+    "module-test": "https://github.com/imsamurai/phpstorm-jsdoc-test-module.git"
   }
 }
