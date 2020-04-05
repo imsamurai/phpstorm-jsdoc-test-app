@@ -1,10 +1,10 @@
-const ModuleClass = require("module-test");
+const {A} = require("module-test");
 
 /** @module Bcd */
 /**
  * @memberOf module:Bcd
  */
-class App extends ModuleClass {
+class App extends A {
 
 }
 
@@ -14,7 +14,7 @@ const app = new App;
 /** @module Bcd */
 /**
  * @memberOf module:Bcd
- * @extends modle:Abc.A
+ * @extends module:Abc.A
  */
 class App2 extends ModuleClass {
 
