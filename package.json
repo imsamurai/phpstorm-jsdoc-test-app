@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "module-test": "git://github.com/imsamurai/phpstorm-jsdoc-test-module.git"
+  }
+}
